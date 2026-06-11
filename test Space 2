@@ -1,0 +1,34 @@
+<html>
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Audiowide&family=Story+Script&display=swap" rel="stylesheet">
+</head>
+<style>
+body{
+    font-family: 'preconnect', cursive;
+
+}
+#div-search.Window
+{
+color:rgb(0, 0, 0);
+background-color:rgb(21, 0, 255);
+border-color:rgb(21, 0, 255);
+
+}
+
+</style>
+<div id="div-search.Window" 
+
+</div>
+
+
+
+
+
+
+
+
+
+
+</html>
